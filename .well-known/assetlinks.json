@@ -1,0 +1,10 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "io.github.grindhousedigital9000.twa",
+    "sha256_cert_fingerprints": [
+      "F9:A9:1F:5E:F3:F2:23:11:BC:53:73:D7:60:8F:27:3E:7A:45:DA:D9:1C:EE:1C:BC:7B:23:73:03:51:88:DF:67"
+    ]
+  }
+}]
